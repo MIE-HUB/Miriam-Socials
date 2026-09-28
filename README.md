@@ -16,5 +16,3 @@ images/
 3. Go to **Settings → Pages**, set Source to **Deploy from a branch**, choose `main` and `/ (root)`, then Save.
 4. Your site will be live at `https://<your-username>.github.io/miriam-portfolio/` within a minute or two.
 
-## Before going live
-- Replace `hello@example.com` in `index.html` with your real email.
